@@ -23,7 +23,7 @@ x = ("apple", "banana", "cherry")
 print(x)
 print(type(x))
 
-x = {"name" : "anish", "age" : 13
+x = {"name" : "anish", "age" : 13}
 print(x)
 print(type(x))
 
